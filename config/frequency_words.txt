@@ -1,6 +1,13 @@
 ai
 chatgpt
 openai
+cursor
+gemini
+deepseek
+doubao
+qwen
+aipai
+sora
 
 二次元
 anime
@@ -11,3 +18,26 @@ PC游戏
 手机游戏
 
 电子产品
+美食
+健康
+运动
+
+股票
+炒币
+加密货币
+crypto
+BTC
+A股
+美股
+
+搞笑
+
+编程
+coding
+python
+爬虫
+逆向
+
+开源
+
+跨境电商
